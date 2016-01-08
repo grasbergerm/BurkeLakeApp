@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BurkeLakeProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Matthew Grasberger</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="pressBack">Press Back to Return to the Map</string>
+</resources>
